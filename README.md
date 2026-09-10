@@ -1,2 +1,6 @@
 # emea-obs-logging-preferences-portal-webapp
-observability / standard / emea
+
+Team: **observability**  
+Tier: **standard**  
+Region: **emea**  
+Synthetic demo repo for the Domo governance platform.
